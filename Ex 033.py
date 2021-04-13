@@ -38,4 +38,4 @@ else:
 v_a_pagar = p_total - v_desconto
 
 #tipo e quantidade de carne, preço total, tipo de pagamento, valor do desconto e valor a pagar.
-print('Cupom fiscal...', 'TIPO: ', tp.title(), 'QUANTIDADE: ', qt, 'PREÇO TOTAL: ', p_total, 'TIPO DE PAGAMENTO: ', 'Cartão tabajara?', tbj, 'VALOR DO DESCONTO: ', v_desconto, 'VALOR A PAGAR: ', v_a_pagar)
+print('Cupom fiscal...','\n', 'TIPO: ', tp.title(),'\n', 'QUANTIDADE: ', qt,'\n', 'PREÇO TOTAL: ', p_total,'\n', 'TIPO DE PAGAMENTO: ', 'Cartão tabajara?', tbj,'\n', 'VALOR DO DESCONTO: ', v_desconto,'\n', 'VALOR A PAGAR: ', v_a_pagar)
