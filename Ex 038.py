@@ -10,4 +10,4 @@ while cidade_a <= cidade_b:
     cidade_a += (cidade_a*tx_a)/100
     cidade_b += (cidade_b*tx_b)/100
     ano += 1
-    print(cidade_a, cidade_b, ano)
+    print(f"A pop da cidade a {cidade_a}, a pop cidade b {cidade_b} o ano {ano}")
